@@ -27,6 +27,10 @@ The model resolution is limited to a maximum of 1024x1024 pixels.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Related sites
+
 [pykeio/ort: A Rust wrapper for ONNX Runtime](https://github.com/pykeio/ort)
 [xuebinqin/DIS](https://github.com/xuebinqin/DIS) Highly Accurate Dichotomous Image Segmentation
 
+## Credits
+
+Khoa Duong, David Horner
